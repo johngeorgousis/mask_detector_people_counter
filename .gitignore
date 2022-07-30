@@ -1,0 +1,5 @@
+DETECTORS/.yoloface/
+CLASSIFIERS/DATASET/
+__pycache__/
+.ipynb_checkpoints/
+video_test/
