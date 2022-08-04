@@ -106,7 +106,6 @@ class TrackerCounter:
                 self.center_points[face_id][3] = True
                 self.people_count += 1 
                 
-                print('WE GOT HERE ')
                 # labeled count
                 if pt[4] == 'Mask':
                     self.mask_count += 1
